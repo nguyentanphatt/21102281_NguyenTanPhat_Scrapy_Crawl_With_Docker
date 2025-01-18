@@ -1,0 +1,32 @@
+version: '3.8'
+services:
+  mysql:
+    image: mysql:5.7
+    environment:
+      MYSQL_ROOT_PASSWORD: sapassword
+      MYSQL_DATABASE: scrapy_data
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+  crawler:
+    build:
+      extra_hosts:
+        - "host.docker.internal:host-gateway"
+      context: ..
+      dockerfile: docker/Dockerfile
+    volumes:
+      - ..:/app
+      - ../data:/app/data
+    environment:
+      - SCRAPY_SETTINGS_MODULE=crawlers.settings
+      - MYSQL_HOST=mysql
+      - MYSQL_USER=root
+      - MYSQL_PASSWORD=sapassword
+      - MYSQL_DATABASE=scrapy_data
+    depends_on:
+      - mysql
+    command: python /app/crawlers/main.py
+
+volumes:
+  mysql_data:

@@ -1,0 +1,72 @@
+City_name: Hà Giang
+Rainfall: 43 %
+Sky_description: Mây rải rác
+Current_temp: 23.7°
+Feels_like_temp: 22°
+----------------------------------------
+City_name: Cao Bằng
+Rainfall: 34 %
+Sky_description: Bầu trời quang đãng
+Current_temp: 24.8°
+Feels_like_temp: 23.9°
+----------------------------------------
+City_name: Lào Cai
+Rainfall: 43 %
+Sky_description: Mây rải rác
+Current_temp: 24.1°
+Feels_like_temp: 23.7°
+----------------------------------------
+City_name: Điện Biên
+Rainfall: 26 %
+Sky_description: Mây cụm
+Current_temp: 29.6°
+Feels_like_temp: 28.3°
+----------------------------------------
+City_name: Hà Nội
+Rainfall: 47 %
+Sky_description: Mây cụm
+Current_temp: 22.9°
+Feels_like_temp: 22.3°
+----------------------------------------
+City_name: Hải Phòng
+Rainfall: 56 %
+Sky_description: Nhiều mây
+Current_temp: 21.9°
+Feels_like_temp: 21.1°
+----------------------------------------
+City_name: Thanh Hóa
+Rainfall: 64 %
+Sky_description: Nhiều mây
+Current_temp: 20.1°
+Feels_like_temp: 20.8°
+----------------------------------------
+City_name: Quảng Trị
+Rainfall: 66 %
+Sky_description: Mây thưa
+Current_temp: 22.1°
+Feels_like_temp: 23°
+----------------------------------------
+City_name: Đà Nẵng
+Rainfall: 69 %
+Sky_description: Nhiều mây
+Current_temp: 21.5°
+Feels_like_temp: 21.3°
+----------------------------------------
+City_name: Quảng Ngãi
+Rainfall: 73 %
+Sky_description: Mây cụm
+Current_temp: 22.3°
+Feels_like_temp: 22.3°
+----------------------------------------
+City_name: Bình Thuận
+Rainfall: 53 %
+Sky_description: Nhiều mây
+Current_temp: 29.9°
+Feels_like_temp: 30.6°
+----------------------------------------
+City_name: Cà Mau
+Rainfall: 41 %
+Sky_description: Nhiều mây
+Current_temp: 31.9°
+Feels_like_temp: 32°
+----------------------------------------

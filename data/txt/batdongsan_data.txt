@@ -1,0 +1,68 @@
+Title: À La Carte Hotel
+Price:   2,25 tỷ
+Address: Đường Dương Đình Nghệ, Phường Phước Mỹ, Sơn Trà, Đà Nẵng.
+Area: 22 m2 - 50 m2 - 63 m2 - 135 m2
+----------------------------------------
+Title: Ariyana Lakeside Văn Quán (Hesco Văn Quán)
+Price: N/A
+Address: Nguyễn Khuyến, Phường Văn Quán, quận Hà Đông, Hà Nội
+Area: 69m2 – 73m2 – 88m2 – 89m2 – 90m2 – 95m2 -111m2
+----------------------------------------
+Title: Asiana Riverside (Shizen Home)
+Price: N/A
+Address: Đường Bến Nghé, phường Tân Thuận Đông, quận 7, thành phố Hồ Chí Minh
+Area: 45;90
+----------------------------------------
+Title: Astral City
+Price:   295 triệu
+Address: Mặt tiền Quốc lộ 13, TP Thuận An, Tỉnh Bình Dương
+Area: 45;90
+----------------------------------------
+Title: Athena Monopoly
+Price:   3,3 - 3,7 tỷ
+Address: Phường Vinh Tân, Thành phố Vinh, Nghệ An
+Area: Không có thông tin
+----------------------------------------
+Title: Chung cư Huỳnh Tấn Phát
+Price:   1,7 tỷ
+Address: Đường Huỳnh Tấn Phát, Phường Phú Thuận, Quận 7, Hồ Chí Minh
+Area: 50m2 – 90 m2
+----------------------------------------
+Title: Green Center (Làng sinh thái golf)
+Price:   2,95 - 6,6 tỷ
+Address: xã Tân Mỹ, huyện Đức Hòa, tỉnh Long An.
+Area: Không có thông tin
+----------------------------------------
+Title: Khu dân cư Bảo Thịnh Residence
+Price:   6 tỷ
+Address: Hà Huy Giáp, Phường Thạnh Xuân, Quận 12, TP.Hồ Chí Minh
+Area: 250m2 - 280m2
+----------------------------------------
+Title: Khu đô thị Phương Đông Vân Đồn
+Price:   2 tỷ
+Address: Xã Đông Xá, đặc khu kinh tế Vân Đồn, Quảng Ninh
+Area: 87;120;140;200;300;500
+----------------------------------------
+Title: N03-T6 - Khu đô thị Ngoại Giao Đoàn
+Price:   3,8 tỷ
+Address: Lô N03T6 Khu Ngoại Giao Đoàn, P.Xuân Tảo, Q.Bắc Từ Liêm, TP Hà Nội
+Area: Không có thông tin
+----------------------------------------
+Title: Park View Apartment
+Price:   1 tỷ
+Address: Đường Bùi Hữu Nghĩa, Phường Bình Hòa, Thuận An, Bình Dương.
+Area: 43m2-52m2 -59m2 -65m2 -68m2 -83 m2
+----------------------------------------
+Title: Parkview Iris Tower
+Price: N/A
+Address: Đường Nguyễn Du Thành phố Thuận An, Tỉnh Bình Dương
+Area: Không có thông tin
+----------------------------------------
+Title: The Landmark 81 - Khu đô thị Vinhomes Central Park
+Price:   4,9 - 22 tỷ
+Address: Đường Điện Biên Phủ, Phường 22, Quận Bình Thạnh, Thành phố Hồ Chí Minh
+Area: 54-55-66m2
+78-87-90-94m2
+106-109-133-145m2
+144-171-172-173-186-192-249-258-269-407-420-431m2
+----------------------------------------
