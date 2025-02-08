@@ -9,5 +9,6 @@ Data from https://thoitiet.vn/ will be inserted into a table named dubaothoitiet
 Data from https://homedy.com/du-an-can-ho will be inserted into a table named batdongsan.
 
 ### Start
-docker-compose build
-docker-compose up --build
+docker-compose build.
+
+docker-compose up --build.
